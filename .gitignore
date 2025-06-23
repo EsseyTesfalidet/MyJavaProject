@@ -1,5 +1,12 @@
-bin/
+# Ignore Eclipse files
 .classpath
 .project
 .settings/
+
+# Ignore compiled files
+bin/
 *.class
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
